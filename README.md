@@ -4,4 +4,4 @@ Cadet is a dark VS Code theme developed by Seth Cox. Cadet uses a dark UI color 
 
 # Screenshots
 <img src='https://i.imgur.com/dhFUeq1.png' />
-<img src='ttps://i.imgur.com/oNgNVGl.png' />
+<img src='https://i.imgur.com/oNgNVGl.png' />
