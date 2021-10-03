@@ -3,6 +3,7 @@
   "displayName": "Cadet",
   "description": "Dark and minimalistic theme with Tailwind color palette and One Dark syntax highlighting",
   "publisher": "SethCox",
+  "icon": "images/icon.png",
   "repository": "https://github.com/sethaddison/Cadet-Vscode-Theme",
   "version": "0.0.1",
   "engines": {
