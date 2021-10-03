@@ -2,6 +2,7 @@
   "name": "cadet",
   "displayName": "Cadet",
   "description": "Dark and minimalistic theme with Tailwind color palette",
+  "publisher": "Seth Cox",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.57.0"
