@@ -12,9 +12,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Cadet",
+        "label": "Cadet Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/cadet-color-theme.json"
+        "path": "./themes/cadet-dark-gray.json"
+      },
+      {
+        "label": "Cadet Medium",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cadet-medium-gray.json"
       }
     ]
   }
